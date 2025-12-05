@@ -18,8 +18,6 @@ project/
 │   │   └── video_games_sales.csv
 │   └── processed/
 │
-├── notebooks/
-│   └── 01_eda.ipynb
 │
 ├── src/
 │   ├── etl/
